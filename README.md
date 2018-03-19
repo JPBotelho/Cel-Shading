@@ -14,7 +14,7 @@ It's easier if you read the code.
 # Renders
 
 ## Method 1
-![Bubble](Renders/Cel1.png "Render.PNG")
+![Bubble](Renders/Cel1.PNG "Render.PNG")
 ## Method 2
-![Bubble](Renders/Cel2.png "Render.PNG")
+![Bubble](Renders/Cel2.PNG "Render.PNG")
 
